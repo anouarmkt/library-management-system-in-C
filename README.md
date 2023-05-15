@@ -1,9 +1,11 @@
 # library-management-system-in-C
      Admin interface  
 
-![c](https://github.com/anouarmkt/library-management-system-in-C/assets/83381574/17df050a-5236-4b84-873e-15a8ef8f132f)
+![c](https://github.com/anouarmkt/library-management-system-in-C/assets/83381574/afc6e94f-8805-49d6-9c1d-55a4d633cea9)
 
       Student interface
 
-![c2](https://github.com/anouarmkt/library-management-system-in-C/assets/83381574/e73d3de4-3e2b-416a-aebd-75ba7a743ddd)
-![Uploading c.JPG…]()
+
+
+
+![c2](https://github.com/anouarmkt/library-management-system-in-C/assets/83381574/768f4082-66d3-4dc2-ad1b-52fad8296858)
